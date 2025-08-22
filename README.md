@@ -15,7 +15,7 @@ to me
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+DS+Student+at+Velammal+Engineering+College;Passionate+about+Python+%26+Cloud+Computing;Currently+Learning+Python;Exploring+Tech+World+Step+by+Step">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+DS+Student+at+Velammal+Engineering+College;Passionate+about+Python+%26+Cloud+Computing;Currently+Learning+Python;Exploring+Tech+World+Step+by+Step">
 </p>
 
 ---
