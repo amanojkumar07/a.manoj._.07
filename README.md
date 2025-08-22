@@ -1,14 +1,13 @@
 
 A.manojkumar <amanojkumar991@gmail.com>
 
-to me
 
 <!-- Profile Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanojkumar07/amanojkumar07/refs/heads/main/miles-morales-in-spider-man-into-the-spider-verse_3840x2160_xtrafondos.com.jpg" width="200" style="border-radius:50%;" alt="Manojkumar Profile Photo"/>
 </p>
 
-<h1 align="center">Hi 🕷️, I'm Manojkumar</h1>
+<h1 align="center">Hi ✌️, I'm MANOJKUMAR</h1>
 <h3 align="center">AI & DS Student | Python & Cloud Enthusiast</h3>
 
 ---
