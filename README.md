@@ -25,7 +25,7 @@ to me
   - 💻 Just started my **coding journey**  
   - 🐍 Learning **Python**  
   - ☁️ Exploring **Cloud Computing**  
-  - 📸 Insta: [a.manoj_.07](https://instagram.com/a.manoj_.07)  
+  - 📸 Insta: [a_manoj_.07](https://instagram.com/a.manoj_.07)  
   - 🏆 CodeChef: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
   - 💼 LinkedIn: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)
 
