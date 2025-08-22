@@ -47,7 +47,7 @@ A.manojkumar <amanojkumar991@gmail.com>
 
 ### 🌀 Fun Animations
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-atg/aman-atg/master/assets/line.gif" width="500">
+  <img src="https://raw.githubusercontent.com/aman-atg/aman-atg/master/assets/line.gif" width="700">
 </p>
 
 <p align="center">
