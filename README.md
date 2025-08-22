@@ -19,11 +19,15 @@
 - 🚀 Excited to grow into a **developer** and explore projects step by step.
 - 💡 Interested in **problem-solving, coding contests, and tech exploration**.
 
+---
+
 ### 🚀 Current Learning
 - Python basics (loops, functions, OOP).
 - Cloud computing fundamentals.
 - GitHub for projects & version control.
 - Competitive coding on CodeChef.
+
+---
 
 ### 🧰 Tech Stack (Learning Stage)
 <p>
@@ -33,21 +37,21 @@
 ---
 
 ### 📈 GitHub Stats
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&hide_title=true" />
 </p>
 
-<p>
+<p align="center">
   <img height="185" src="https://streak-stats.demolab.com?user=amanojkumar07&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-### 🎬 Tiny Animation (SVG)
+### 🎬 Animations
 
-<p>
-  <!-- Simple bouncing dot SVG animation -->
+#### 🔵 Bouncing Dot
+<p align="center">
   <svg width="320" height="60" viewBox="0 0 320 60" xmlns="http://www.w3.org/2000/svg">
     <rect x="1" y="1" width="318" height="58" rx="12" fill="#111" stroke="#444"/>
     <circle id="dot" cx="30" cy="30" r="6" fill="#22d3ee">
@@ -58,16 +62,27 @@
   </svg>
 </p>
 
+#### 🐍 Contribution Snake
+![snake gif](https://github.com/amanojkumar07/amanojkumar07/blob/output/github-contribution-grid-snake.svg)
+
+#### 🌌 3D Contribution Graph
+[![3D Contributions](https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/profile-summary-card-output/monokai/3d-profile.png)](https://github.com/amanojkumar07)
+
+#### 👋 Waving Hand
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
-- 📸 Instagram: [a.manoj_.07](https://www.instagram.com/a.manoj_.07)  
+- 📸 Instagram: [a_manoj_.07](https://www.instagram.com/a.manoj_.07)  
 - 👨‍💻 CodeChef: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
 - 💼 LinkedIn: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)  
-- 📧 Email: *(add your email here if you want)*  
+- 📧 Email: *(amanojkumar991@gmail.com)*  
 
 ---
 
 <p align="center">
-  <em>“Every expert was once a beginner. Keep coding, keep growing 🚀”</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every%20expert%20was%20once%20a%20beginner.%20Keep%20coding%2C%20keep%20growing%20🚀" />
 </p>
