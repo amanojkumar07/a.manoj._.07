@@ -8,13 +8,13 @@ A.manojkumar <amanojkumar991@gmail.com>
 </p>
 
 <h1 align="center">Hi ✌️, I'm MANOJKUMAR</h1>
-<h3 align="center">AI & DS Student | Python & Cloud Enthusiast</h3>
+<h3 align="center">AI Student | Python & Cloud Enthusiast</h3>
 
 ---
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+DS+Student+at+Velammal+Engineering+College;Passionate+about+Python+%26+Cloud+Computing;Currently+Learning+Python;Exploring+Tech+World+Step+by+Step">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+26%+Student+at+Velammal+Engineering+College;Passionate+about+Python+%26+Cloud+Computing;Currently+Learning+Python;Exploring+Tech+World+Step+by+Step">
 </p>
 
 ---
