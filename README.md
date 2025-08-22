@@ -8,7 +8,7 @@ to me
   <img src="https://raw.githubusercontent.com/amanojkumar07/amanojkumar07/refs/heads/main/miles-morales-in-spider-man-into-the-spider-verse_3840x2160_xtrafondos.com.jpg" width="200" style="border-radius:50%;" alt="Manojkumar Profile Photo"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Manojkumar</h1>
+<h1 align="center">Hi 🕷️, I'm Manojkumar</h1>
 <h3 align="center">AI & DS Student | Python & Cloud Enthusiast</h3>
 
 ---
@@ -21,13 +21,13 @@ to me
 ---
 
 ### 🌟 About Me
-- 🎓 2nd year **AI & DS student** at Velammal Engineering College  
-- 💻 Just started my **coding journey**  
-- 🐍 Learning **Python**  
-- ☁️ Exploring **Cloud Computing**  
-- 📸 Insta: [a.manoj_.07](https://instagram.com/a.manoj_.07)  
-- 🏆 CodeChef: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
-- 💼 LinkedIn: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)
+  - 🎓 2nd year **AI & DS student** at Velammal Engineering College 
+  - 💻 Just started my **coding journey**  
+  - 🐍 Learning **Python**  
+  - ☁️ Exploring **Cloud Computing**  
+  - 📸 Insta: [a.manoj_.07](https://instagram.com/a.manoj_.07)  
+  - 🏆 CodeChef: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
+  - 💼 LinkedIn: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)
 
 ---
 
