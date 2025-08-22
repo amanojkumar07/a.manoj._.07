@@ -1,7 +1,7 @@
 <!-- Profile README for Manojkumar A -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=900&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manojkumar+A+%F0%9F%91%8B;AI+Student+%26+Developer;4th+Year+College+%7C+India;Building+impactful+tech+for+rural+communities;Open+to+SDE%2FML+Internships+and+Placements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=900&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manojkumar+A+%F0%9F%91%8B;2nd+Year+College+%7C+India;Building+impactful+tech+for+rural+communities;Open+to+SDE%2FML+Internships+and+Placements" alt="Typing SVG" />
 </p>
 
 <p align="center">
